@@ -1,2 +1,2 @@
 # IPFS Recipes
-Test
+Here are some recipes. 
