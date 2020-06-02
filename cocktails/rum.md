@@ -7,6 +7,8 @@
 * 1 Hazelnut or Almond Liquer
 * Juice of 1/2 Lime
 
+Serve short over ice or long over pineapple/orange juice.  
+
 Garnish with a cherry. 
 
 ## Mojito
