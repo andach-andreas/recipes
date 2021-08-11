@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* 150g Cashew Nuts (soaked overnight, preferably)
+* 150g Cashew Nuts
 * 40g Nutritional Yeast
 * 1tbsp Smoked Paprika
 * 1tbsp Maple Syrup
@@ -19,3 +19,7 @@
 2. Put the remaining water into a saucepan, and sprinkle the agar agar powder into it. Simmer for 5 minutes, stirring constantly. The powder will form a gel - ensure that there are no globules stuck to the bottom.
 3. Take off the heat and stir the cashew nut mixture into the saucepan mix. Stir well to ensure it is well mixed.
 4. Chill in the fridge for an hour or two.
+
+## Notes
+
+This is a little grainy. Most recipes recommend to soak the cashews overnight. I suspect this is probably necessary.
