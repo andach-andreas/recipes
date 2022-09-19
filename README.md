@@ -1,3 +1,3 @@
 # Recipes
 
-Here are some recipes.
+Here are some recipes. They are free. 
